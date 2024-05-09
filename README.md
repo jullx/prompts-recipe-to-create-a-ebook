@@ -39,6 +39,6 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ✅ebook gerado em output
 
- 👩‍💻 Expert
+ 
  -
  👩‍🎓Júlia Lopes [Linkedln](https://www.linkedin.com/in/julia-lopes-53a341185/)    [Instagram](https://www.instagram.com/julialopes494/)
