@@ -57,7 +57,7 @@ Este projeto visa criar um eBook completo utilizando as ferramentas mais avança
 
 Júlia Lopes - Advogada apaixonada por Direito Digital e Inteligência Artificial, sempre em busca de novas maneiras de integrar a tecnologia ao Direito.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/julia-lopes-53a341185/)
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/julia-lopes-53a341185](https://www.linkedin.com/in/j%C3%BAlia-lopes-53a341185/)/)
 - 📸 [Instagram](https://www.instagram.com/julialopes494/)
 
 <p align="center" style="font-weight: bold; font-size: 1.5em; margin-top: 20px;">
