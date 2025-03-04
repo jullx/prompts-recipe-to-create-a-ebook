@@ -1,44 +1,66 @@
-🤖**Projeto EBOOK Gerado por I.A.s**🤖
--
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
+# 📚✨ EBOOK Gerado por I.A.s - Um Mergulho na Inteligência Artificial ✨🤖
 
-[Click aqui para ler](https://github.com/jullx/prompts-recipe-to-create-a-ebook/tree/main/output)
+<p align="center">
+  <img src="./prompts-recipe-to-create-a-ebook/assets/_cf7da67f-ef42-4439-9362-e57fe5d657ad.jpg" alt="Capa do Ebook" style="border-radius: 10px; max-width: 80%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);"/>
+</p>
 
-💻 Tecnologias utilizadas no projeto:
+---
 
-🌟[ChatGPT](<https://chat.openai.com/>)
+## 🌟 Sobre o Projeto
 
-🌟[Copilot/Designer](<https://www.bing.com/images/create?cc=br>)
+Este projeto visa criar um eBook completo utilizando as ferramentas mais avançadas de Inteligência Artificial (IA). Combinando a geração de conteúdo automatizada e design inovador, o projeto entrega um material rico e acessível para quem deseja explorar o mundo da IA no Direito Brasileiro.
 
-🧠 Prompts
--
-🚀ChatGPT:
+📖 **Acesse o eBook Completo:** [Clique aqui](https://github.com/jullx/prompts-recipe-to-create-a-ebook/tree/main/output)
 
-|   Ação      |             prompt                                                   |
-|-------------|----------------------------------------------------------------------|
-| título       |Crie um título poderoso de um ebook sobre o tema inteligência artificial, nicho: IA, subnicho: direito brasileiro; o título deve ser épico e curto com uma temática gamer e descontraída; liste 5 variações de temas|
-|conteúdo     |Faça um texto para ebook , com foco em nesse assunto que eu escolhi{REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico e deixe com uma dinâmica de história em quadrinhos|
+---
 
-🚀Copilot/Designer:
-| Ação       |     prompt                                                          |
-|------------|---------------------------------------------------------------------|
-| título     |Judiciário junto com inteligência artificial em pix art|
+## 🚀 Tecnologias Utilizadas
 
+- 🤖 **[ChatGPT](https://chat.openai.com/)**: Geração de conteúdo dinâmico e relevante.
+- 🎨 **[Copilot/Designer](https://www.bing.com/images/create?cc=br)**: Criação de imagens estilizadas e visuais impactantes.
 
+---
 
+## 🧠 Prompts Utilizados
 
-✨ **Features**
--
-✅Conteúdo gerado via ChatGPT
+### 💡 ChatGPT
 
-✅Imagens geradas via Copilot/Designer
+| Ação       | Descrição do Prompt                                                                            |
+|------------|------------------------------------------------------------------------------------------------|
+| **Título** | Título épico e curto para o eBook, com uma pegada gamer e descontraída.                         |
+| **Conteúdo**| Texto didático e envolvente, explicando o tema de forma simples e com exemplos reais.           |
 
-📚 **Materiais**
--
-✅Imagens utilizadas em assets
+### 🎨 Copilot/Designer
 
-✅ebook gerado em output
+| Ação       | Descrição do Prompt                                                      |
+|------------|---------------------------------------------------------------------------|
+| **Imagem** | Judiciário junto com inteligência artificial em estilo pixel art.           |
 
- 
- -
- 👩‍🎓Júlia Lopes [Linkedln](https://www.linkedin.com/in/julia-lopes-53a341185/)    [Instagram](https://www.instagram.com/julialopes494/)
+---
+
+## ✨ Funcionalidades do Projeto
+
+- ✅ **Automação** na criação de conteúdo e design gráfico.
+- ✅ **Facilidade de Acesso**, com o eBook disponível na pasta **output**.
+- ✅ **Material Visual** inovador e atrativo.
+
+---
+
+## 📂 Estrutura do Projeto
+
+- 📁 **assets**: Contém todas as imagens e recursos visuais utilizados.
+- 📁 **output**: Pasta onde o eBook gerado está disponível para download.
+
+---
+
+## 👩‍💻 Sobre a Autora
+
+Júlia Lopes - Advogada apaixonada por Direito Digital e Inteligência Artificial, sempre em busca de novas maneiras de integrar a tecnologia ao Direito.
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julia-lopes-53a341185/)
+- 📸 [Instagram](https://www.instagram.com/julialopes494/)
+
+<p align="center" style="font-weight: bold; font-size: 1.5em; margin-top: 20px;">
+  🌠 **Rumo à Aprovação e à Inovação!** 🌠
+</p>
+
