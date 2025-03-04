@@ -1,7 +1,7 @@
 # 📚✨ EBOOK Gerado por I.A.s - Um Mergulho na Inteligência Artificial ✨🤖
 
 <p align="center">
-  <img src="./prompts-recipe-to-create-a-ebook/assets/_cf7da67f-ef42-4439-9362-e57fe5d657ad.jpg" alt="Capa do Ebook" style="border-radius: 10px; max-width: 80%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);"/>
+  <img src="./prompts-recipe-to-create-a-ebook/assets\_befe0cb2-a9c4-43a8-a6f2-2c27a97e2ac5.jpg" alt="Capa do Ebook" style="border-radius: 10px; max-width: 80%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);"/>
 </p>
 
 ---
